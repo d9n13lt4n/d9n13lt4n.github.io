@@ -5,3 +5,4 @@ kramdown:
   math_engine: mathjax
 github:
   is_project_page: false
+  show_downloads: false
