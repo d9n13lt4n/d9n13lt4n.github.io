@@ -1,7 +1,5 @@
 title: This is d3lt4 speaking_
 theme: jekyll-theme-hacker
 
-github:
-  is_project_page: false
 kramdown:
   math_engine: mathjax

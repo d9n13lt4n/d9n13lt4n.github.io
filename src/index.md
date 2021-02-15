@@ -19,7 +19,7 @@ System & Network Administration
 
 | Date | Position |
 | - | - |
-| '19 Sept - '20 Aug Network Manager @ NCKU IKMLAB |
+| '19 Sept - '20 Aug | Network Manager @ NCKU IKMLAB |
 | '19 Mar - June | Assistant MIS @ Finger Game Int. Ltd. Co. |
 | '17 Sept - '18 Aug | Network Administrator @ NUKIM |
 
