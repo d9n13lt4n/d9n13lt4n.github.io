@@ -1,6 +1,6 @@
 theme: jekyll-theme-hacker
-name: This is D3LT4_
-title: null
+title: This is D3LT4_
+name: null
 
 kramdown:
   math_engine: mathjax
