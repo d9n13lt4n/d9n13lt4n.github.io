@@ -1,37 +1,28 @@
 # H3ll0, W0rld!
 
-You can use the [editor on GitHub](https://github.com/d9n13lt4n/d9n13lt4n.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## 4b0ut M3
+Hi, I'm D3LT4. I'm currently having my Masters' Degree at NCKU, and a amateur network manager. I like to take some photos and play some music during my spare time.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Sk1lls
 
-### Markdown
+Python (ML/DL)
+- PyTorch
+- TensorFlow 2.0
+- Scikit-Learn
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+System & Network Administration
+- Switching, Routing, Firewall
+- Active Directory
+- vmware ESXi
 
-```markdown
-Syntax highlighted code block
+## 3xp3r13nc3s
 
-# Header 1
-## Header 2
-### Header 3
+| Date | Position |
+| - | - |
+| '19 Sept - '20 Aug Network Manager @ NCKU IKMLAB |
+| '19 Mar - June | Assistant MIS @ Finger Game Int. Ltd. Co. |
+| '17 Sept - '18 Aug | Network Administrator @ NUKIM |
 
-- Bulleted
-- List
+## Pr0j3cts & Publ1c4t10ns
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/d9n13lt4n/d9n13lt4n.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+To be added.
