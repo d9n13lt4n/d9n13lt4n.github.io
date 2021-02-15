@@ -1,6 +1,9 @@
 theme: jekyll-theme-hacker
-name: This is d3lt4 speaking_
 title: null
+name: This is d3lt4 speaking_
 
 kramdown:
   math_engine: mathjax
+github:
+  is_project_page: false
+  show_downloads: false
