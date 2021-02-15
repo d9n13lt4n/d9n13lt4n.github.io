@@ -3,3 +3,5 @@ title: This is d3lt4 speaking_
 
 kramdown:
   math_engine: mathjax
+github:
+  is_project_page: false
